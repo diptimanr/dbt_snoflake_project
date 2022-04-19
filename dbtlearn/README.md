@@ -1,4 +1,4 @@
-Welcome to your new dbt project!
+My dbt->Snowflake Experiment
 
 ### Using the starter project
 
